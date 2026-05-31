@@ -1,2 +1,2 @@
 # Winny
-Winny is a Winfows version of HeyClicky
+Winny is a Windows version of HeyClicky

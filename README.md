@@ -26,8 +26,18 @@ No more copy-pasting. No window switching. Just natural interaction.
 
 ## Screenshots
 
-![Winny Interface 1](assets/winny1.png)
-![Winny Interface 2](assets/winny2.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/winny1.png" alt="Winny Interface 1"><br>
+      <em>Winny Interface 1</em>
+    </td>
+    <td align="center">
+      <img src="assets/winny2.png" alt="Winny Interface 2"><br>
+      <em>Winny Interface 2</em>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 

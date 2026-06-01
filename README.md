@@ -50,6 +50,21 @@ No more copy-pasting. No window switching. Just natural interaction.
 
 ---
 
+## 🐛 Bugs & Issues
+
+Found a bug or have a feature request?
+
+- **[Report a Bug / Request a Feature](https://github.com/jhasanofficial/winny/issues/new/choose)**
+- [View All Issues](https://github.com/jhasanofficial/winny/issues)
+
+**When reporting an issue, please include:**
+- Winny version number
+- Your Windows version
+- Screenshots or screen recording (highly recommended)
+- Steps to reproduce the problem
+
+  ---
+
 **Made with ❤️ for Windows users who want a truly helpful AI companion.**
 
 If you like the project, don't forget to star ⭐ the repo!

@@ -54,8 +54,8 @@ No more copy-pasting. No window switching. Just natural interaction.
 
 Found a bug or have a feature request?
 
-- **[Report a Bug / Request a Feature](https://github.com/jhasanofficial/winny/issues/new/choose)**
-- [View All Issues](https://github.com/jhasanofficial/winny/issues)
+- **[Report a Bug / Request a Feature](https://github.com/jahidhasanlinix/Winny/issues/new)**
+- [View All Issues](https://github.com/jahidhasanlinix/Winny/issues)
 
 **When reporting an issue, please include:**
 - Winny version number
